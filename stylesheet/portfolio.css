@@ -199,10 +199,10 @@ p {
 }
 .inner-fluid-container {
   background-color: #ededed;
-  background-image: url('../assets/bgimager.jpg');
+  /* background-image: url('../assets/bgimager.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;  
-  background-size: cover;
+  background-size: cover; */
   height: 100%;
   text-align: center;
 }
